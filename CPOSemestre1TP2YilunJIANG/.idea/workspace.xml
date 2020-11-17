@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd83b7c4-fe4f-4849-9488-19cc5a3b5727" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CPOSemestre1TP2YilunJIANG 2" />
+  </component>
+  <component name="JupyterTrust" id="de8a1ff8-b845-47af-8ae9-159f222cfe1f" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jp7tqqOc9TCcsxlID5YiEOChgF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CPOSemestre1TP2YilunJIANG" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cposemestre1tp2yilunjiang.CPOSemestre1TP2YilunJIANG" />
+      <module name="CPOSemestre1TP2YilunJIANG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cposemestre1tp2yilunjiang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd83b7c4-fe4f-4849-9488-19cc5a3b5727" name="Default Changelist" comment="" />
+      <created>1604489398852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604489398852</updated>
+      <workItem from="1604489402576" duration="20000" />
+      <workItem from="1604494982931" duration="2716000" />
+      <workItem from="1604497711850" duration="181000" />
+      <workItem from="1604497924167" duration="27000" />
+      <workItem from="1604497994779" duration="427000" />
+      <workItem from="1604498436379" duration="243000" />
+      <workItem from="1604498773685" duration="137000" />
+      <workItem from="1604580420494" duration="208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="157" key="#Project_Structure" timestamp="1604580448118">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="512" y="157" key="#Project_Structure/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604580448118" />
+    <state x="512" y="157" key="#Project_Structure/0.0.2048.1152/-1680.388.1680.1027@0.0.2048.1152" timestamp="1604498648474" />
+    <state x="488" y="238" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604498305442">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="488" y="238" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604498305442" />
+    <state x="837" y="299" key="#com.intellij.ide.util.MemberChooser" timestamp="1604496396565">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="837" y="299" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604496396565" />
+    <state x="837" y="299" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152/-1680.388.1680.1027@0.0.2048.1152" timestamp="1604495793604" />
+    <state x="761" y="413" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604498265979">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="761" y="413" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604498265979" />
+    <state width="2006" height="329" key="GridCell.Tab.0.bottom" timestamp="1604498679336">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604497950897" />
+    <state width="2006" height="329" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1680.388.1680.1027@0.0.2048.1152" timestamp="1604498679336" />
+    <state width="2006" height="329" key="GridCell.Tab.0.center" timestamp="1604498679335">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.center/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604497950895" />
+    <state width="2006" height="329" key="GridCell.Tab.0.center/0.0.2048.1152/-1680.388.1680.1027@0.0.2048.1152" timestamp="1604498679335" />
+    <state width="2006" height="329" key="GridCell.Tab.0.left" timestamp="1604498679334">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.left/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604497950895" />
+    <state width="2006" height="329" key="GridCell.Tab.0.left/0.0.2048.1152/-1680.388.1680.1027@0.0.2048.1152" timestamp="1604498679334" />
+    <state width="2006" height="329" key="GridCell.Tab.0.right" timestamp="1604498679336">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.right/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604497950896" />
+    <state width="2006" height="329" key="GridCell.Tab.0.right/0.0.2048.1152/-1680.388.1680.1027@0.0.2048.1152" timestamp="1604498679336" />
+    <state x="612" y="326" key="IDE.errors.dialog" timestamp="1604497944029">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="612" y="326" key="IDE.errors.dialog/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604497944029" />
+    <state x="533" y="215" width="1352" height="837" key="SettingsEditor" timestamp="1604498659958">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="533" y="215" key="SettingsEditor/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604498405920" />
+    <state x="533" y="215" width="1352" height="837" key="SettingsEditor/0.0.2048.1152/-1680.388.1680.1027@0.0.2048.1152" timestamp="1604498659958" />
+    <state x="837" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604496689181">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="837" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604496689181" />
+    <state x="623" y="198" key="new project wizard" timestamp="1604498145241">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="623" y="198" key="new project wizard/0.0.2048.1152/-1680.365.1680.1050@0.0.2048.1152" timestamp="1604498145241" />
+  </component>
+</project>
